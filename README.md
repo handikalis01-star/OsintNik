@@ -1,2 +1,0 @@
-# OsintNik
-Clear
